@@ -43,6 +43,6 @@ Here are some ideas to get you started:
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Nursultan200103444?theme=dark&font=Gabriela&ext=activity)
 
-
+<!-- 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Nursultan200103444?theme=dark&font=Galindo&ext=activity&site=cn)
-
+ -->
