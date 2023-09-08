@@ -13,8 +13,6 @@ Here are some ideas to get you started:
 <h3 align="center">A passionate android developer in Kazakhstan!</h3>
 
 
-<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nursultanamanzhol" alt="nursultanamanzhol" /></a> </p>-->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
