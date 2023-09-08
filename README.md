@@ -12,7 +12,6 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Nursultan</h1>
 <h3 align="center">A passionate android developer in Kazakhstan!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nursultanamanzhol&label=Profile%20views&color=0e75b6&style=flat" alt="nursultanamanzhol" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nursultanamanzhol" alt="nursultanamanzhol" /></a> </p>
 
