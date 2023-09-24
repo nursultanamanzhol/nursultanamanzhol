@@ -1,4 +1,4 @@
-![logo]([https://github.com/nursultanamanzhol/nursultanamanzhol/blob/main/Github_Banner.jpg](https://github.com/nursultanamanzhol/nursultanamanzhol/blob/main/Github_Banner.png))
+![logo](https://github.com/nursultanamanzhol/nursultanamanzhol/blob/main/Github_Banner.png)
 
 <h1 align="center">Hi 👋, I'm Nursultan</h1>
 <h3 align="center">A passionate android developer in Kazakhstan!</h3>
