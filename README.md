@@ -1,4 +1,4 @@
-![logo](https://github.com/nursultanamanzhol/nursultanamanzhol/blob/main/Github_Banner.png)
+![logo](https://github.com/nursultanamanzhol/nursultanamanzhol/blob/main/anime-black_clover-asta_black_clover-1511180.jpeg)
 
 <h1 align="center">Hi 👋, I'm Nursultan</h1>
 <h3 align="center">A passionate android developer in Kazakhstan!</h3>
