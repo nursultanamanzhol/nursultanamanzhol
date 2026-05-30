@@ -1,16 +1,100 @@
+# Hi 👋, I'm Nursultan Amanzhol
 
+### Android & KMP Engineer | Building Android, iOS and Desktop Apps with Kotlin
 
-<h1 align="center">Hi 👋, I'm Nursultan</h1>
-<h3 align="center">A passionate android developer in Kazakhstan!</h3>
+🚀 Passionate software engineer from Kazakhstan focused on modern mobile and cross-platform development.
 
-<h3 align="left">Connect with me:</h3>
+## About Me
+
+* 📱 Android Developer (Jetpack Compose, MVVM, Clean Architecture)
+* 🔥 Kotlin Multiplatform Engineer (Android • iOS • Desktop)
+* 🦋 Flutter Developer (Android • iOS)
+* ☕ Backend Developer with Kotlin & Java
+* 🖥️ JavaFX Desktop Applications
+* 🌱 Currently exploring Compose Multiplatform and scalable mobile architectures
+
+---
+
+## Connect With Me
+
 <p align="left">
-<a href="https://linkedin.com/in/nursultan аmanzhol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nursultan аmanzhol" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/h200103444" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="h200103444" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/nursultan200103444" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nursultan200103444" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nursultan-amanzhol/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" width="48" />
+</a>
+
+<a href="https://github.com/nursultanamanzhol" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" width="48" />
+</a>
+
+<a href="https://leetcode.com/u/nursultan200103444/" target="_blank">
+<img src="https://assets.leetcode.com/static_assets/public/icons/favicon-32x32.png" width="48" />
+</a>
+
+<a href="https://www.hackerrank.com/h200103444" target="_blank">
+<img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" width="48" />
+</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
+## Tech Stack
 
+### Mobile Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=android,kotlin,flutter,dart" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=firebase,mysql" />
+</p>
+
+### Desktop
+
+<p>
+<img src="https://skillicons.dev/icons?i=java" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,figma,postman" />
+</p>
+
+---
+
+## Expertise
+
+```text
+Android Development      ████████████████ 95%
+Kotlin Multiplatform     ███████████████  90%
+Flutter                  ██████████████   85%
+Backend Kotlin           ██████████████   85%
+Java                     ██████████████   85%
+JavaFX                   █████████████    80%
+```
+
+---
+
+## GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=nursultanamanzhol\&show_icons=true\&theme=tokyonight\&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nursultanamanzhol\&layout=compact\&theme=tokyonight\&hide_border=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=nursultanamanzhol\&theme=tokyonight\&hide_border=true)
+
+---
+
+## Current Focus
+
+* Kotlin Multiplatform (KMP)
+* Compose Multiplatform
+* Android Architecture
+* Flutter Applications
+* Backend APIs with Kotlin
+* Cross-platform Product Development
+
+> "Write once, deliver everywhere."
