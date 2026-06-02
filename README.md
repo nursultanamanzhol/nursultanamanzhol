@@ -1,4 +1,4 @@
-# Hi 👋, I'm Nursultan Amanzhol
+# 👋, I'm Nursultan Amanzhol
 
 ### Android & KMP Engineer | Building Android, iOS and Desktop Apps with Kotlin
 
